@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sletz17
+- 👋 Hi, I’m Sletzer Mascarenhas
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on Projects
